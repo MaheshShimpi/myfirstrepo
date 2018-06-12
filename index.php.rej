@@ -1,6 +1,0 @@
-diff a/index.php b/index.php	(rejected hunks)
-@@ -0,3 +0,4 @@
- <?php
- echo "this is simple php file";
-+
- ?>
